@@ -3,7 +3,7 @@ name: Build and deploy React app to Azure Web App - LLL-S3-Frontend
 on:
   push:
     branches:
-      - main
+      - Deployment
   workflow_dispatch:
 
 jobs:
