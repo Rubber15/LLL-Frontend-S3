@@ -2,6 +2,7 @@
 import React, { useEffect, useState } from 'react';
 import { Button, Form, ListGroup } from 'react-bootstrap';
 //there is no need to import bootstrap.min.css, because it is already imported in index.js
+//more info: https://create-react-app.dev/docs/adding-bootstrap/
 const url = 'https://localhost:7066/Information';
 
 
