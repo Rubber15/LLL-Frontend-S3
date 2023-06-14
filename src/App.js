@@ -1,7 +1,7 @@
 //Zet de imports goed
 import React, { useEffect, useState } from 'react';
 import { Button, Form, ListGroup } from 'react-bootstrap';
-
+//there is no need to import bootstrap.min.css, because it is already imported in index.js
 const url = 'https://localhost:7066/Information';
 
 
